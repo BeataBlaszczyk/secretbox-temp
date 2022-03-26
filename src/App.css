@@ -1,0 +1,72 @@
+
+
+body {
+  background-color:#e9ecef;
+ 
+}
+
+i {
+  padding-right: 8px;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+
+
+.secret-container{
+    background-color: #000;
+
+}
+
+.container-login{
+  text-align: left;
+}
+
+.container-home{
+  text-align: center;
+}
+
+.secret-text {
+
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+background: transparent;
+
+}
+
+.rating{
+  color:white;
+}
+
+.myGrid{
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-template-rows: 50% 50%;
+  float: right;
+}
+
+.fire{
+
+font-size: 1.3rem;
+float: right;
+
+background: transparent;
+}
+
+
+.thumbUp{
+  content: url("thumbUp.png");
+  float: right;
+  height: 22px;
+  
+}
+.thumbDown{
+  content: url("thumbDown.png");
+  float: right;
+  height: 22px;
+
+}
